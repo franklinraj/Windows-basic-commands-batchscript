@@ -77,5 +77,5 @@ echo Backup completed successfully!
 
 
 # RESULT:
-The commands/batch files are executed successfully.
+ The commands/batch files are executed successfully.
 
